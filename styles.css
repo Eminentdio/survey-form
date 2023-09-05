@@ -7,7 +7,7 @@ body{
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.4;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.901), rgba(225, 236, 28, 0.395)), url('skill.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.901), rgba(225, 236, 28, 0.395)), url('./skill.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
